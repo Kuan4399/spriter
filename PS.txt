@@ -1,0 +1,19 @@
+MySQL
+root
+123456
+
+oracle 
+scott
+tiger
+
+Miscrosoft office
+2716953344@qq.com/3299823081@qq.com
+Yinkuan135122 
+
+2019-09-11T15:17:27.792922Z 5 [Note] [MY-010454] [Server] A temporary password is generated for root@localhost: j7;1060jpfyV
+ j71060jpfyV
+j7;1060jpfyV
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '123456';
+
+SET JAVA_HOME=C:\Program Files\Java
+SET TOMCAT_HOME=D:\mysql\apache-tomcat-9.0.24
